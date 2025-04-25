@@ -139,7 +139,20 @@ We follow the two-dimensional classification proposed in the paper:
 
 ---
 
-## 📖 Reference
+## 📚 Citation
 
-- Yang, Y. et al., *A Survey of AI Agent Protocols*, 2025. [arXiv:2504.16736](https://arxiv.org/abs/2504.16736)
+If you find this repository helpful, please consider citing our paper:
+
+```bibtex
+@misc{yang2025surveyaiagentprotocols,
+  title={A Survey of AI Agent Protocols}, 
+  author={Yingxuan Yang and Huacan Chai and Yuanyi Song and Siyuan Qi and Muning Wen and Ning Li and Junwei Liao and Haoyi Hu and Jianghao Lin and Gaowei Chang and Weiwen Liu and Ying Wen and Yong Yu and Weinan Zhang},
+  year={2025},
+  eprint={2504.16736},
+  archivePrefix={arXiv},
+  primaryClass={cs.AI},
+  url={https://arxiv.org/abs/2504.16736}, 
+}
+```
+
 
