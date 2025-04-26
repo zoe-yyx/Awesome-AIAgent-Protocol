@@ -80,13 +80,13 @@ We follow the two-dimensional classification proposed in the paper:
 - **Proposer**: LangChain
 - **Goal**: Unified agent execution interfaces
 - **Tech**: OpenAPI, JSON
-- **Link**: [LangChain AConP](https://docs.langchain.com/docs/ecosystem/integrations/aconp)
+- **Link**: [LangChain AConP](https://spec.acp.agntcy.org/)
 
 #### Agora
 - **Proposer**: Marro et al. (2024)
 - **Goal**: Meta-protocol negotiation via LLMs
-- **Tech**: Protocol Documents
-- **Link**: [Agora Paper](https://arxiv.org/abs/2402.02601)
+- **Tech**: Protocol Generation
+- **Link**: [Agora Paper](https://arxiv.org/abs/2410.11905)
 
 ---
 
@@ -96,7 +96,7 @@ We follow the two-dimensional classification proposed in the paper:
 - **Proposer**: Eclipse Foundation
 - **Goal**: IoT + Agent OS for interoperability
 - **Tech**: JSON-LD, DID
-- **Link**: [LMOS GitHub](https://github.com/eclipse/lmos)
+- **Link**: [LMOS GitHub](https://eclipse.dev/lmos/)
 
 #### Agent Protocol
 - **Proposer**: AI Engineer Foundation
@@ -108,25 +108,25 @@ We follow the two-dimensional classification proposed in the paper:
 - **Proposer**: Ranjan et al. (2025)
 - **Goal**: Decentralized ethical agent coordination
 - **Tech**: DECP, DID, VCs
-- **Link**: [LOKA Paper](https://arxiv.org/abs/2403.12345)
+- **Link**: [LOKA Paper](https://arxiv.org/abs/2504.10915)
 
 #### PXP
 - **Proposer**: Srinivasan et al. (2024)
 - **Goal**: Human-LLM bi-directional interaction protocol
 - **Tech**: Finite State + Blackboard
-- **Link**: [PXP Paper](https://arxiv.org/abs/2403.05869)
+- **Link**: [PXP Paper](https://arxiv.org/abs/2410.20600)
 
 #### CrowdES
 - **Proposer**: Bae et al. (2025)
 - **Goal**: Realistic robot-crowd simulation
 - **Tech**: Markov Chains + Diffusion Models
-- **Link**: [CrowdES Paper](https://arxiv.org/abs/2404.02491)
+- **Link**: [CrowdES Paper](https://arxiv.org/abs/2504.04756)
 
 #### Spatial Population Protocols (SPPs)
 - **Proposer**: Gąsieniec et al. (2024)
 - **Goal**: Robot consensus in distributed systems
 - **Tech**: Self-stabilizing coordination
-- **Link**: [SPPs Paper](https://arxiv.org/abs/2404.03527)
+- **Link**: [SPPs Paper](https://arxiv.org/abs/2411.08434)
 
 ---
 
